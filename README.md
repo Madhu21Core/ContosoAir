@@ -1,5 +1,7 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/madhuriku/DevOps%20Test%20Suite/_apis/build/status/Madhu21Core.ContosoAir?branchName=master)](https://dev.azure.com/madhuriku/DevOps%20Test%20Suite/_build/latest?definitionId=5&branchName=master)
 
+https://dev.azure.com/madhuriku/DevOps%20Test%20Suite/_apis/build/status/Madhu21Core.ContosoAir?branchName=master
 
 # Microsoft.Github CI Demo
 
